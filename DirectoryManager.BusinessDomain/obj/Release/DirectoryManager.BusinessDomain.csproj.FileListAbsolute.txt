@@ -1,0 +1,4 @@
+C:\Users\tek\Desktop\Projects\DirectoryManager\DirectoryManager.BusinessDomain\bin\Release\DirectoryManager.BusinessDomain.dll
+C:\Users\tek\Desktop\Projects\DirectoryManager\DirectoryManager.BusinessDomain\bin\Release\DirectoryManager.BusinessDomain.pdb
+C:\Users\tek\Desktop\Projects\DirectoryManager\DirectoryManager.BusinessDomain\obj\Release\DirectoryManager.BusinessDomain.dll
+C:\Users\tek\Desktop\Projects\DirectoryManager\DirectoryManager.BusinessDomain\obj\Release\DirectoryManager.BusinessDomain.pdb

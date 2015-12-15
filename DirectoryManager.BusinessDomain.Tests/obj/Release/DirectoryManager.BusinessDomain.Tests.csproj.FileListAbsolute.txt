@@ -1,0 +1,8 @@
+C:\Users\tek\Desktop\Projects\DirectoryManager\DirectoryManager.BusinessDomain.Tests\bin\Release\DirectoryManager.BusinessDomain.Tests.dll
+C:\Users\tek\Desktop\Projects\DirectoryManager\DirectoryManager.BusinessDomain.Tests\bin\Release\DirectoryManager.BusinessDomain.Tests.pdb
+C:\Users\tek\Desktop\Projects\DirectoryManager\DirectoryManager.BusinessDomain.Tests\bin\Release\DirectoryManager.BusinessDomain.dll
+C:\Users\tek\Desktop\Projects\DirectoryManager\DirectoryManager.BusinessDomain.Tests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\tek\Desktop\Projects\DirectoryManager\DirectoryManager.BusinessDomain.Tests\bin\Release\DirectoryManager.BusinessDomain.pdb
+C:\Users\tek\Desktop\Projects\DirectoryManager\DirectoryManager.BusinessDomain.Tests\obj\Release\DirectoryManager.BusinessDomain.Tests.csprojResolveAssemblyReference.cache
+C:\Users\tek\Desktop\Projects\DirectoryManager\DirectoryManager.BusinessDomain.Tests\obj\Release\DirectoryManager.BusinessDomain.Tests.dll
+C:\Users\tek\Desktop\Projects\DirectoryManager\DirectoryManager.BusinessDomain.Tests\obj\Release\DirectoryManager.BusinessDomain.Tests.pdb
